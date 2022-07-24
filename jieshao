@@ -1,0 +1,22 @@
+运行视频：
+链接：https://pan.baidu.com/s/1MEQW_ZXt4lve1SGfjSug3A?pwd=p5ns 
+BottomNavigationView底部导航控件详细用法
+BottomNavigationView控件的主要属性含义：
+
+app:iteamBackground 指的是底部导航栏的背景颜色,默认是主题的颜色
+app:itemIconTint 指的是底部导航栏中图片的颜色
+app:itemTextColor 指的是底部导航栏文字的颜色
+app:menu 指的是菜单布局（文字和图片都写在这个里面）
+app:labelVisibilityMode=""属性
+item多的时候，指的是item非选中状态显示文字，有以下几个值：
+
+labeled 图标文字都显示
+selected
+auto
+unlabeled 文字不显示
+设置水波纹效果 app:itemRippleColor
+
+
+getMenu()
+返回菜单
+getItem()
