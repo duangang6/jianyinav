@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jianyinav</string>
+    <string name="fenxiang">分享</string>
+    <string name="shanchu">删除</string>
+    <string name="shoucang">收藏</string>
+    <string name="bianji">编辑</string>
+</resources>

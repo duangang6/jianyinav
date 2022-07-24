@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_share"
+        android:icon="@mipmap/zhuanfa"
+        android:title="@string/fenxiang" />
+    <item
+        android:id="@+id/item_collect"
+        android:icon="@mipmap/shoucang"
+        android:title="@string/shoucang" />
+    <item
+        android:id="@+id/item_edit"
+        android:icon="@mipmap/shezhi"
+        android:title="@string/bianji" />
+    <item
+        android:id="@+id/item_delete"
+        android:icon="@mipmap/shanchu"
+        android:title="@string/shanchu" />
+
+</menu>
